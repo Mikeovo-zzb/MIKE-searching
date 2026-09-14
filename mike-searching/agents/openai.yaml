@@ -1,0 +1,6 @@
+interface:
+  display_name: "MIKE searching"
+  short_description: "筛选、开发与推进 Creator 和 B2B 合作"
+  default_prompt: "Use $mike-searching to research, score, and draft the next outreach or follow-up for a qualified Creator or B2B opportunity."
+policy:
+  allow_implicit_invocation: true
